@@ -1,0 +1,4 @@
+add hint mdoal to contact info
+add hint modal to personal info
+check error handeling for certificate reducer
+check error handeling for firstImpression reducer
